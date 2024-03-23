@@ -1,16 +1,14 @@
 # desafio_mobile
 
-A new Flutter project.
+Projeto criado para Desafio Mobile CAIXA
 
-## Getting Started
+## Linguagem escolhida
 
-This project is a starting point for a Flutter application.
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Realizar o download do diretório na Integra e executar o arquivo 'desafio_mobile/lib/main.dart' na IDE Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
